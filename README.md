@@ -15,7 +15,7 @@ This is a Retrieval-Augmented Generation (RAG) chatbot for synthetic sample data
 
 1. **Clone the repository:**
    ```
-   git clone https://huggingface.co/spaces/YOUR_USERNAME/insurellm-assistant
+   git clone https://github.com/harriliu/rag_chatbot
    cd insurellm-assistant
    ```
 
