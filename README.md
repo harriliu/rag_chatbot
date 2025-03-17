@@ -4,6 +4,10 @@
 
 This is a Retrieval-Augmented Generation (RAG) chatbot for synthetic sample data about a fictional insurance tech company called InsureLLM. All company information, products, and metrics are entirely fictional and generated solely for demonstration purposes:. The assistant can answer questions about the company's products, history, and other information stored in a knowledge base.
 
+## HuggingFace Space Demo ([Link](https://huggingface.co/spaces/harriliu1129/company_knowledge_rag_chatbot))
+
+![UI](https://github.com/harriliu/rag_chatbot/blob/main/demo_ui.png)
+
 ## Features
 
 - **RAG-based Question Answering**: Uses LangChain and OpenAI's GPT-4o-mini to answer questions based on company knowledge.
